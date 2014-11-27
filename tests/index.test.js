@@ -1,6 +1,6 @@
 // file: tests/index.test.js - created at 2014-11-25, 05:01
 var should = require('should');
-var docPipe = require('../');
+var docPipe = require('../modules');
 
 describe('Doc pipe', function () {
   it('should be strip line breaks', function () {
