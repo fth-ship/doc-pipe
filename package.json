@@ -1,0 +1,17 @@
+{
+  "name": "doc-pipe",
+  "version": "1.0.0",
+  "description": "Documentation using stream",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaique da Silva <kaique.developer@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "should": "^4.3.0"
+  }
+}
